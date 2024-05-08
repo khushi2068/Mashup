@@ -11,10 +11,10 @@ This Python script creates customized music mashups by downloading videos from Y
     pip install -r requirements.txt
     ```
 
-2. **Running the Script**: Execute the Python script `mashup_app.py` in your terminal:
+2. **Running the Script**: Execute the Python script `mashupApp.py` in your terminal:
 
     ```bash
-    streamlit run mashup_app.py
+    streamlit run mashupApp.py
     ```
 
 3. **Input Information**: Enter the singer's name, select the number of videos to include, specify the duration of each video segment in seconds, and provide your email address.
